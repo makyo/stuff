@@ -18,6 +18,10 @@ Two vocal or room mics. Cardioid with low noise floor. XLR requiring phantom pow
 
 Versatile desktop or stand USB mic supporting directional, stereo, or cardioid patterns. Good for podcasts. Includes shock mount and pop filter
 
+#### CAD GXL2600usb
+
+Another good podcast/vocals mic, but one that requires a good bit of setup, which I can show you. Includes desktop stand, shock mount, and pop filter.
+
 #### Boom stand
 
 Standard mount boom stand, including dual-head mount for e.g: both MXL mics.
@@ -80,3 +84,24 @@ This is my main kit and I'm really attached to it, but if you want to work with 
 * HLD-8 grip/vertical grip with controls/secondary battery holder.
 * Olympus M. Zuiko 45mm f/1.8 AF lens. Good portrait lens (90mm full frame equiv.)
 * Olympus 17mm f/1.8 MF/AF lens. Dedicated MF through a pull-back ring. Good wide or macro lens (0.25m/0.82ft)
+
+### Kitchen stuff
+
+#### Kitchenaid Artisan Stand Mixer
+
+Your standard bubbly-looking Kitchenaid mixer. This is the artisan one, where the top lifts up, not the industrial one where the bowl lowers. Super dependable, though. Comes with dough hook, mixing paddle, and whisk attachments.
+
+#### Kitchenaid Mixer Attachments
+
+I think these attachments fit any Kitchenaid stand mixer with the front attachment.
+
+* *Food grinder:* think sausage grinder. Does well with grinding meat and veg. Can work as a juicer in a pinch with cheesecloth over a bowl.
+* *Grain mill:* works for non-oily dry grains. Good for brewing, but note that the small hopper means you'll need to be there with a scoop.
+
+#### [Ascaso Dream](http://www.ascaso.com/div-espresso-coffee-machines-grinders/dream-1.html) Espresso Machine
+
+A really quite nice countertop espresso machine. Single boiler, temperature gauge (not the PID model), portafilter, tamp. Good stuff, though I alternate between this, Chemex, and Moka pot, so it's borrow-able. Has a steam wand, natch, but since it's a single boiler model, you have to either wait for the boiler to cool down for espresso and let your milk cool down as well, or run the shot and wait for the boiler to heat up for steaming, which means letting your shot die :P Best way around it I've found is to steam and then put your steamed milk in the microwave (not on, just for thermal insulation) while you run your shot.
+
+#### Bamboo steamer baskets
+
+I dunno, if you want :D
