@@ -10,13 +10,17 @@ Digital audio recorder with XLR- and RCA-in with phantom power, plus four mics (
 
 Digital audio recorder with XLR- and RCA-in for four channels with phantom power. Pairs well with camera, and includes male and female tripod mounts. Records to SD/SDHC or back up to camera, or pass-through to computer. Mixing features abound.
 
+#### Behringer XENYX X1222USB studio mixer
+
+12 Channel 16-input studio mixer with pre-amps, compressors, EQ, and FX processor, connects through USB to a computer for in/out.
+
 #### 2x MXL V67G mics
 
 Two vocal or room mics. Cardioid with low noise floor. XLR requiring phantom power. Includes shock mounts.
 
 #### Blue Microphones Yeti mic
 
-Versatile desktop or stand USB mic supporting directional, stereo, or cardioid patterns. Good for podcasts. Includes shock mount and pop filter
+Versatile desktop or stand USB mic supporting omni, stereo, or cardioid patterns. Good for podcasts. Includes shock mount and pop filter
 
 #### CAD GXL2600usb
 
