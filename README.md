@@ -20,7 +20,7 @@ Two vocal or room mics. Cardioid with low noise floor. XLR requiring phantom pow
 
 #### CAD Equitek E100S
 
-Another good vocal mic, good for up-close vocals or podcasting, if you're willing to deal with XLR. Built in shock-mount's pretty nice, too; pop filter available.
+Another good vocal mic, good for up-close vocals or podcasting, if you're willing to deal with XLR and phantom power. Built in shock-mount's pretty nice, too; pop filter available.
 
 #### Blue Microphones Yeti mic
 
