@@ -18,13 +18,17 @@ Digital audio recorder with XLR- and RCA-in for four channels with phantom power
 
 Two vocal or room mics. Cardioid with low noise floor. XLR requiring phantom power. Includes shock mounts.
 
+#### CAD Equitek E100S
+
+Another good vocal mic, good for up-close vocals or podcasting, if you're willing to deal with XLR. Built in shock-mount's pretty nice, too; pop filter available.
+
 #### Blue Microphones Yeti mic
 
 Versatile desktop or stand USB mic supporting omni, stereo, or cardioid patterns. Good for podcasts. Includes shock mount and pop filter
 
 #### CAD GXL2600usb
 
-Another good podcast/vocals mic, but one that requires a good bit of setup, which I can show you. Includes desktop stand, shock mount, and pop filter.
+Another good podcast/vocals mic, but one that requires a good bit of setup, which I can show you. Includes desktop stand, shock mount; pop filter available.
 
 #### Boom stand
 
